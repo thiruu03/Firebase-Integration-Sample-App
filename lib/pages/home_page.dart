@@ -80,7 +80,8 @@ class _HomepageState extends State<Homepage> {
       builder: (context) => AlertDialog(
         shape:
             ContinuousRectangleBorder(borderRadius: BorderRadius.circular(8)),
-        content: const Text("Do you want to save the data?"),
+        content:
+            const Text("Do you want to save the data before logging out?"),
         actions: [
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
