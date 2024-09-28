@@ -1,2 +1,16 @@
-# Firebase-Integration-Sample-App
-This is a simple value incrementor app with Firebase authentication. Users can create accounts, and their last incremented value is stored in Firestore. When users sign out, their current value is saved in the database, and upon logging back in, they can view their last updated value.
+# incrementer_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
